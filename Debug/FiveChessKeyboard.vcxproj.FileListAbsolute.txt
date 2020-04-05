@@ -1,0 +1,4 @@
+C:\Users\t2017\source\repos\FiveChessKeyboard\Debug\FiveChessKeyboard.exe
+C:\Users\t2017\source\repos\FiveChessKeyboard\Debug\FiveChessKeyboard.pdb
+D:\GitLib\FiveChessKeyboard\Debug\FiveChessKeyboard.exe
+D:\GitLib\FiveChessKeyboard\Debug\FiveChessKeyboard.pdb
